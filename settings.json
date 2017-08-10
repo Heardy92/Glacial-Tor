@@ -1,0 +1,21 @@
+{
+	"telegram": {
+		"auth": {
+			"token": "384768297:AAE5xCNb-CSuqDXesetZ1WWXBcWMl4n0V1o"
+		},
+		"chatID": "-197535077",
+		"useFirstNameInsteadOfUsername": false,
+		"commaAfterSenderName": false,
+		"colonAfterSenderName": false,
+		"skipOldMessages": true
+	},
+	"discord": {
+		"auth": {
+			"token": "MzQ0NzYxNzg4MDY5NDQ1NjMz.DGxb9Q.X8wNMbNra3qlsIery8E0XMjnXRw"
+		},
+		"channelID": "344754777131057163",
+		"serverID": "338949236534018048",
+		"usersfile": "discord_users.json"
+	},
+	"debug": false
+}
